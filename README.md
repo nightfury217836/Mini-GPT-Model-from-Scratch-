@@ -6,7 +6,7 @@
 💡 Ever wondered if a Mini GPT or Small LLM can understand your text and generate intelligent responses—just like ChatGPT?
 In this video, I’ll show you how I built a Mini GPT LLM from scratch using Python, Transformers, and custom training—a complete end-to-end AI project. 🤖✨
 
-GitHub Code Link :
+YouTube Link : https://youtu.be/E1x84nCt95E?si=eUJRTafquHT1FBGu
 
 We’ll go step by step:
 ✅ Building a tokenizer and preparing text datasets
